@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingCart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCart.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\1984.jfif",
+      "PackagePath": "staticwebassets\\images\\1984.jfif"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\dune.jfif",
+      "PackagePath": "staticwebassets\\images\\dune.jfif"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\fondation.jfif",
+      "PackagePath": "staticwebassets\\images\\fondation.jfif"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\la-guerre-des-mondes.jfif",
+      "PackagePath": "staticwebassets\\images\\la-guerre-des-mondes.jfif"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\le-guide-du-voyageur-galactique.jfif",
+      "PackagePath": "staticwebassets\\images\\le-guide-du-voyageur-galactique.jfif"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\le-tour-du-monde-en-quatre-vingts-jours.jfif",
+      "PackagePath": "staticwebassets\\images\\le-tour-du-monde-en-quatre-vingts-jours.jfif"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\les-naufragés-du-wager.jfif",
+      "PackagePath": "staticwebassets\\images\\les-naufragés-du-wager.jfif"
+    },
+    {
+      "Id": "C:\\Users\\AYOUB\\source\\repos\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\neuromancien.jfif",
+      "PackagePath": "staticwebassets\\images\\neuromancien.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ShoppingCart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ShoppingCart.props",
+      "PackagePath": "build\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCart.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCart.props",
+      "PackagePath": "buildTransitive\\ShoppingCart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
